@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=flynn-eye&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flynn-eye"></img>
 
